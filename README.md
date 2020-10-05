@@ -1,4 +1,4 @@
-#KILL GAME
+# KILL GAME
 
 path to startup files in windows 7/10:
 C:\Users\misch\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
